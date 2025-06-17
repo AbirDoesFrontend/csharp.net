@@ -1,0 +1,15 @@
+/Applications/Developer/c#/Converting_String_To_Numbers/Converting_String_To_Numbers/bin/Debug/net9.0/Converting_String_To_Numbers
+/Applications/Developer/c#/Converting_String_To_Numbers/Converting_String_To_Numbers/bin/Debug/net9.0/Converting_String_To_Numbers.deps.json
+/Applications/Developer/c#/Converting_String_To_Numbers/Converting_String_To_Numbers/bin/Debug/net9.0/Converting_String_To_Numbers.runtimeconfig.json
+/Applications/Developer/c#/Converting_String_To_Numbers/Converting_String_To_Numbers/bin/Debug/net9.0/Converting_String_To_Numbers.dll
+/Applications/Developer/c#/Converting_String_To_Numbers/Converting_String_To_Numbers/bin/Debug/net9.0/Converting_String_To_Numbers.pdb
+/Applications/Developer/c#/Converting_String_To_Numbers/Converting_String_To_Numbers/obj/Debug/net9.0/Converting_String_To_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Developer/c#/Converting_String_To_Numbers/Converting_String_To_Numbers/obj/Debug/net9.0/Converting_String_To_Numbers.AssemblyInfoInputs.cache
+/Applications/Developer/c#/Converting_String_To_Numbers/Converting_String_To_Numbers/obj/Debug/net9.0/Converting_String_To_Numbers.AssemblyInfo.cs
+/Applications/Developer/c#/Converting_String_To_Numbers/Converting_String_To_Numbers/obj/Debug/net9.0/Converting_String_To_Numbers.csproj.CoreCompileInputs.cache
+/Applications/Developer/c#/Converting_String_To_Numbers/Converting_String_To_Numbers/obj/Debug/net9.0/Converting_String_To_Numbers.sourcelink.json
+/Applications/Developer/c#/Converting_String_To_Numbers/Converting_String_To_Numbers/obj/Debug/net9.0/Converting_String_To_Numbers.dll
+/Applications/Developer/c#/Converting_String_To_Numbers/Converting_String_To_Numbers/obj/Debug/net9.0/refint/Converting_String_To_Numbers.dll
+/Applications/Developer/c#/Converting_String_To_Numbers/Converting_String_To_Numbers/obj/Debug/net9.0/Converting_String_To_Numbers.pdb
+/Applications/Developer/c#/Converting_String_To_Numbers/Converting_String_To_Numbers/obj/Debug/net9.0/Converting_String_To_Numbers.genruntimeconfig.cache
+/Applications/Developer/c#/Converting_String_To_Numbers/Converting_String_To_Numbers/obj/Debug/net9.0/ref/Converting_String_To_Numbers.dll

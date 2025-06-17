@@ -1,0 +1,15 @@
+/Applications/Developer/c#/Text_Based_Data_Types/Text_Based_Data_Types/bin/Debug/net9.0/Text_Based_Data_Types
+/Applications/Developer/c#/Text_Based_Data_Types/Text_Based_Data_Types/bin/Debug/net9.0/Text_Based_Data_Types.deps.json
+/Applications/Developer/c#/Text_Based_Data_Types/Text_Based_Data_Types/bin/Debug/net9.0/Text_Based_Data_Types.runtimeconfig.json
+/Applications/Developer/c#/Text_Based_Data_Types/Text_Based_Data_Types/bin/Debug/net9.0/Text_Based_Data_Types.dll
+/Applications/Developer/c#/Text_Based_Data_Types/Text_Based_Data_Types/bin/Debug/net9.0/Text_Based_Data_Types.pdb
+/Applications/Developer/c#/Text_Based_Data_Types/Text_Based_Data_Types/obj/Debug/net9.0/Text_Based_Data_Types.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Developer/c#/Text_Based_Data_Types/Text_Based_Data_Types/obj/Debug/net9.0/Text_Based_Data_Types.AssemblyInfoInputs.cache
+/Applications/Developer/c#/Text_Based_Data_Types/Text_Based_Data_Types/obj/Debug/net9.0/Text_Based_Data_Types.AssemblyInfo.cs
+/Applications/Developer/c#/Text_Based_Data_Types/Text_Based_Data_Types/obj/Debug/net9.0/Text_Based_Data_Types.csproj.CoreCompileInputs.cache
+/Applications/Developer/c#/Text_Based_Data_Types/Text_Based_Data_Types/obj/Debug/net9.0/Text_Based_Data_Types.sourcelink.json
+/Applications/Developer/c#/Text_Based_Data_Types/Text_Based_Data_Types/obj/Debug/net9.0/Text_Based_Data_Types.dll
+/Applications/Developer/c#/Text_Based_Data_Types/Text_Based_Data_Types/obj/Debug/net9.0/refint/Text_Based_Data_Types.dll
+/Applications/Developer/c#/Text_Based_Data_Types/Text_Based_Data_Types/obj/Debug/net9.0/Text_Based_Data_Types.pdb
+/Applications/Developer/c#/Text_Based_Data_Types/Text_Based_Data_Types/obj/Debug/net9.0/Text_Based_Data_Types.genruntimeconfig.cache
+/Applications/Developer/c#/Text_Based_Data_Types/Text_Based_Data_Types/obj/Debug/net9.0/ref/Text_Based_Data_Types.dll
