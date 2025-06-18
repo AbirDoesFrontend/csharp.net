@@ -1,0 +1,15 @@
+/Applications/Developer/c#/Boolean_Data_Type/Boolean_Data_Type/bin/Debug/net9.0/Boolean_Data_Type
+/Applications/Developer/c#/Boolean_Data_Type/Boolean_Data_Type/bin/Debug/net9.0/Boolean_Data_Type.deps.json
+/Applications/Developer/c#/Boolean_Data_Type/Boolean_Data_Type/bin/Debug/net9.0/Boolean_Data_Type.runtimeconfig.json
+/Applications/Developer/c#/Boolean_Data_Type/Boolean_Data_Type/bin/Debug/net9.0/Boolean_Data_Type.dll
+/Applications/Developer/c#/Boolean_Data_Type/Boolean_Data_Type/bin/Debug/net9.0/Boolean_Data_Type.pdb
+/Applications/Developer/c#/Boolean_Data_Type/Boolean_Data_Type/obj/Debug/net9.0/Boolean_Data_Type.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Developer/c#/Boolean_Data_Type/Boolean_Data_Type/obj/Debug/net9.0/Boolean_Data_Type.AssemblyInfoInputs.cache
+/Applications/Developer/c#/Boolean_Data_Type/Boolean_Data_Type/obj/Debug/net9.0/Boolean_Data_Type.AssemblyInfo.cs
+/Applications/Developer/c#/Boolean_Data_Type/Boolean_Data_Type/obj/Debug/net9.0/Boolean_Data_Type.csproj.CoreCompileInputs.cache
+/Applications/Developer/c#/Boolean_Data_Type/Boolean_Data_Type/obj/Debug/net9.0/Boolean_Data_Type.sourcelink.json
+/Applications/Developer/c#/Boolean_Data_Type/Boolean_Data_Type/obj/Debug/net9.0/Boolean_Data_Type.dll
+/Applications/Developer/c#/Boolean_Data_Type/Boolean_Data_Type/obj/Debug/net9.0/refint/Boolean_Data_Type.dll
+/Applications/Developer/c#/Boolean_Data_Type/Boolean_Data_Type/obj/Debug/net9.0/Boolean_Data_Type.pdb
+/Applications/Developer/c#/Boolean_Data_Type/Boolean_Data_Type/obj/Debug/net9.0/Boolean_Data_Type.genruntimeconfig.cache
+/Applications/Developer/c#/Boolean_Data_Type/Boolean_Data_Type/obj/Debug/net9.0/ref/Boolean_Data_Type.dll

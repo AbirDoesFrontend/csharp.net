@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boolean_Data_Type", "Boolean_Data_Type\Boolean_Data_Type.csproj", "{F9208271-F6B9-49A1-81AE-A7C6BD4D4341}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9208271-F6B9-49A1-81AE-A7C6BD4D4341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9208271-F6B9-49A1-81AE-A7C6BD4D4341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9208271-F6B9-49A1-81AE-A7C6BD4D4341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9208271-F6B9-49A1-81AE-A7C6BD4D4341}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
